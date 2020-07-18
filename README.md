@@ -1,21 +1,15 @@
 ### Hi there 👋
 
 
-### Some tests :wink: 
+<div align="center">
+  <a href="https://twitter.com/kammzinho" target="_blank">
+    <img src="./img/twitter.png" alt="Twitter" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vinicius-kammradt//" target="_blank">
+    <img src="./img/linkdin.png" alt="LinkedIn">
+  </a>
+</div>
 
-![](img/4.png)
+[![HitCount](http://hits.dwyl.com/kammradt/kammradt.svg)](http://hits.dwyl.com/kammradt/kammradt)
 
-<!--
-**kammradt/kammradt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
