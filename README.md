@@ -9,19 +9,23 @@
 - 🔭 I'm currently studying through [Meetup Clone](https://github.com/kammradt/lets-meet-api), [Termigol](https://github.com/kammradt/termigol) and [Tibia tools](https://github.com/kammradt/tibia-tools)
 - ☎ Feel free to get in touch!
 
-<div align="left" style="margin-left: 25px">
+<div align="left">
 
-<a href="https://twitter.com/kammzinho" target="_blank">
-<img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/twitter.png?raw=true">
+<a href="https://twitter.com/kammzinho" target="_blank"  style="margin-left: 35px">
+    <img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/twitter.png?raw=true">
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vinicius-kammradt/" target="_blank">
-<img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/linkedin.png?raw=true">
+    <img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/linkedin.png?raw=true">
 </a>
 
 <br>
 <br>
 
+<div  style="margin-left: 35px">
+
 ![Kammradt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammradt&theme=nord&layout=compact&hide=html)
+
+</div>
 
 </div>
