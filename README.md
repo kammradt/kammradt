@@ -1,7 +1,15 @@
 ## 🎉 Ha-ha! You found me!
 
 # [![Kammradt](https://github.com/kammradt/kammradt/blob/master/img/kammradt.gif?raw=true)](https://kammradt.now.sh)
-<p align='center'>
+
+
+## I'm a bad {card game, tibia} player and a lier! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat coding" width="200" />
+- 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning
+- ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀
+- 🔭 I'm currently studying through [Meetup Clone](https://github.com/kammradt/lets-meet-api), [Termigol](https://github.com/kammradt/termigol) and [Tibia tools](https://github.com/kammradt/tibia-tools)
+- ☎ Feel free to get in touch!
+
+<div align="left" style="margin-left: 25px">
 
 <a href="https://twitter.com/kammzinho" target="_blank">
 <img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/twitter.png?raw=true">
@@ -11,14 +19,9 @@
 <img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/linkedin.png?raw=true">
 </a>
 
-</p>
-
-
-<p style="text-align: center">
 <br>
-🚧
-</p>
+<br>
 
-<!-- <p style="text-align: justify; hidden">
-🚧
-</p> -->
+![Kammradt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammradt&theme=nord&layout=compact&hide=html)
+
+</div>
