@@ -7,7 +7,8 @@
 - 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning
 - ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀
 - 🔭 I'm currently studying through [Meetup Clone](https://github.com/kammradt/lets-meet-api), [Termigol](https://github.com/kammradt/termigol) and [Tibia tools](https://github.com/kammradt/tibia-tools)
-- ☎ Feel free to get in touch!
+- ☎ Feel free to get in touch! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kammradt_kammradt)
+
 
 <div align="left">
 
@@ -18,6 +19,8 @@
 <a href="https://www.linkedin.com/in/vinicius-kammradt/" target="_blank">
     <img height="30" src="https://github.com/kammradt/kammradt/blob/master/img/linkedin.png?raw=true">
 </a>
+
+
 
 <br>
 <br>
