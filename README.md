@@ -1,8 +1,5 @@
 ## 🎉 Ha-ha! You found me!
 
-# [![Kammradt](https://github.com/kammradt/kammradt/blob/master/img/kammradt.gif?raw=true)](https://kammradt.now.sh)
-
-
 ## I'm a bad {card game, tibia} player and a lier! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat coding" width="200" />
 - 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning
 - ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀
