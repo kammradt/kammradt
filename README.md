@@ -24,7 +24,7 @@
 
 <div  style="margin-left: 35px">
 
-![Kammradt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammradt&theme=nord&layout=compact&hide=html)
+![Kammradt's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kammradt&theme=nord&layout=compact&hide=html&langs_count=9)
 
 </div>
 
