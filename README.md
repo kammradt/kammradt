@@ -1,9 +1,9 @@
 ## 🎉 Ha-ha! You found me!
 
-## I'm a bad {card game, tibia} player and a lier! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat coding" width="200" />
-- 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning
-- ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀
-- 🔭 I'm currently studying through [my repos](https://github.com/kammradt?tab=repositories), [my backups](https://github.com/kammradt-archives) and [my little pet](https://github.com/C41949)
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat coding" width="200" />
+- 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning  
+- ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀  
+- 🔭 I'm currently studying through [my repos](https://github.com/kammradt?tab=repositories), [my backups](https://github.com/kammradt-archives) and [my little pet](https://github.com/C41949)  
 - ☎ Feel free to get in touch! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kammradt_kammradt)
 
 
