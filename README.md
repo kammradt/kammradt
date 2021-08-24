@@ -6,8 +6,7 @@
 - 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning  
 - ✨ Interested in server-side stuff, bringing fun to projects and bad jokes 👀  
 - 🔭 I'm currently studying through [my repos](https://github.com/kammradt?tab=repositories), [my backups](https://github.com/kammradt-archives) and [my little pet](https://github.com/C41949)  
-- ☎ Feel free to get in touch! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kammradt_kammradt)
-
+- ☎ Feel free to get in touch! 
 
 <div align="left">
 
