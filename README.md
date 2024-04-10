@@ -4,7 +4,7 @@
 
 - 🎨 You can find [everything about me here](https://kammradt.super.site/)
 - 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning  
-- ✨ Interested in server-side stuff, Tibia, card games and bringing fun to projects with bad jokes 🃏  
+- ✨ Interested in server-side stuff, Tibia, Magic: The Gathering games and bringing fun to projects 🃏  
 - 🔭 I'm currently studying Ruby & Rails through [my repos](https://github.com/kammradt?tab=repositories), [my backups](https://github.com/kammradt-archives) and [my little pet](https://github.com/C41949)  
 - ☎ Feel free to get in touch! 
 
