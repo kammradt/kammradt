@@ -1,24 +1,17 @@
-## 🎉 Ha-ha! You found me!
+<div align="center">
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Cat coding" width="200" />
+<img src="assets/outfit.png" width="96" alt="kamm's tibia outfit" />
 
-- 🎨 You can find [everything about me here](https://kammradt.super.site/)
-- 👨🏻‍💻 Developer with almost nothing in years of experience, but always trying and learning  
-- ✨ Interested in server-side stuff, Tibia, Magic: The Gathering games and bringing fun to projects 🃏  
-- 🔭 I'm currently studying Ruby & Rails through [my repos](https://github.com/kammradt?tab=repositories), [my backups](https://github.com/kammradt-archives) and [my little pet](https://github.com/C41949)  
-- ☎ [Feel free to get in touch](https://www.linkedin.com/in/vinicius-kammradt/)! 
+# kamm
 
-<div align="left">
-    
-### I try to write usefull stuff 🙏
-    
-- 🇧🇷 [Criando suas primeiras DAGs no Airflow em um passe de ✨Magic🌟](https://kammradt.super.site/blog-posts/criando-suas-primeiras-dags-no-airflow-em-um-passe-de-magic)
-- 🇧🇷 [Começar a usar o Airflow 🍃 é tão fácil quanto fazer um bolo de cenoura 🍰🥕](https://kammradt.super.site/blog-posts/comear-a-usar-o-airflow-to-fcil-quanto-fazer-um-bolo-de-cenoura)
-- 🇺🇸 [Express ⚡ & MongoDB ❇️ friendly tutorial](https://github.com/kammradt/tutorial-express-mongodb)
-- 🇧🇷 [ArduinoDucky - Criando um RubberDucky de baixo custo](https://kammradt.super.site/blog-posts/arduinoducky-criando-um-rubberducky-de-baixo-custo)
+software engineer
 
-<br>
-<br>
+`ruby on rails` · `java`
 
+▎ building things that work
+
+· · · · · · · · · ·
+
+[website](https://kammradt.github.io) &nbsp;·&nbsp; [email](mailto:vinicius.kammradt1@gmail.com)
 
 </div>
