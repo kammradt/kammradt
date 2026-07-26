@@ -12,6 +12,6 @@ software engineer
 
 · · · · · · · · · ·
 
-[website](https://kammradt.github.io) &nbsp;·&nbsp; [email](mailto:vinicius.kammradt1@gmail.com)
+[website](https://kammradt.github.io) &nbsp;·&nbsp; [email](mailto:vinicius.kammradt1@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/vinicius-kammradt)
 
 </div>
