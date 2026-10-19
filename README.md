@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/outfit.png" width="96" alt="kamm's tibia outfit" />
+<img src="assets/outfit.png" width="128" alt="kamm's tibia outfit" />
 
 # kamm
 
