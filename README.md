@@ -6,7 +6,7 @@
 
 software engineer
 
-`ruby on rails` · `java`
+`ruby on rails` · `java` · `ruby`
 
 ▎ building things that work
 
